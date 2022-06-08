@@ -3,6 +3,7 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [go-zero-gin-template](#go-zero-gin-template)
+  - [run](#run)
   - [test](#test)
   - [docker](#docker)
 
@@ -11,6 +12,13 @@
 ### go-zero-gin-template
 
 一个 go-zero gin web 模板
+
+#### run
+
+```sh
+go mod tidy
+cd api && go run api.go
+```
 
 #### test
 
