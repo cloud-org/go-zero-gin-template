@@ -4,3 +4,8 @@ Host: 0.0.0.0 # docker listen
 Port: 9097
 
 Debug: true
+
+Log:
+  Mode: console # 改成 file 会输出日志到 log 目录
+  Path: "./log"
+  Level: info

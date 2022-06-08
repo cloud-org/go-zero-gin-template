@@ -16,7 +16,7 @@
 
 ```
 [GIN-debug] GET    /v1/hello                 --> go-zero-gin-template/api/internal/handler.(*Handler).ReflectHandler.func1 (4 handlers)
-{"@timestamp":"2022-06-08T15:20:26.759+08:00","caller":"app/app.go:73","content":"server is start at: 0.0.0.0:9097","level":"info"}
+{"@timestamp":"2022-06-08T15:45:16.871+08:00","caller":"api/api.go:73","content":"server is start at: 0.0.0.0:9097","level":"info"}
 ```
 
 ```
