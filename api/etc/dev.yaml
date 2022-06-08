@@ -1,0 +1,6 @@
+Name: app
+Mode: dev
+Host: 0.0.0.0 # docker listen
+Port: 9097
+
+Debug: true
